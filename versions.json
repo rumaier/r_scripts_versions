@@ -1,0 +1,101 @@
+{
+    "r_blackmarket": {
+        "latest": "1.2.8",
+        "notes": []
+    },
+
+    "r_bridge": {
+        "repo": "rumaier/r_bridge",
+        "latest": "2.0.0",
+        "notes": [
+            "^2+^0 Added interface bridging",
+            "· Refactored codebase",
+            "· Rebuilt help text in react",
+            "^8-^0 Removed inventory stash functions"
+        ]
+    },
+
+    "r_buddies": {
+        "latest": "2.0.4",
+        "notes": [
+            "· Fixed chat export error on login"
+        ]
+    },
+
+    "r_communityservice": {
+        "repo": "rumaier/r_communityservice",
+        "latest": "2.0.7",
+        "notes": [
+            "^2+^0 Added comms management menu"
+        ]
+    },
+
+    "r_drugsales": {
+        "repo": "rumaier/r_drugsales",
+        "latest": "3.0.0",
+        "notes": [
+            "^2+^0 Added new custom React NUI Interaces",
+            "· Complete rewrite of the entire resource"
+        ]
+    },
+
+    "r_energydrinks": {
+        "repo": "rumaier/r_energydrinks",
+        "latest": "1.0.4",
+        "notes": [
+            "· Fix debug function conflicts with ox_lib"
+        ]
+    },
+
+    "r_killfeed": {
+        "latest": "1.0.3",
+        "notes": [
+            "· Fixed NPC kills showing as 'nil nil'",
+            "· fixed various stat track errors server side"
+        ]
+    },
+
+    "r_lottery": {
+        "latest": "2.1.1",
+        "notes": [
+            "· Fixed blips appearing when set to false",
+            "· fixed various stat track errors server side"
+        ]
+    },
+
+    "r_moneywash": {
+        "repo": "rumaier/r_moneywash",
+        "latest": "1.0.6",
+        "notes": []
+    },
+
+    "r_notify": {
+        "latest": "1.0.0",
+        "notes": []
+    },
+
+    "r_prison": {
+        "latest": "1.0.5",
+        "notes": []
+    },
+
+    "r_storageunits": {
+        "latest": "2.0.1",
+        "notes": [
+            "· Fixed cheater false positive on relog w/ spawn selectors",
+            "· Fixed incorrect README links"
+        ]
+    },
+
+    "r_trapphone": {
+        "latest": "1.1.4",
+        "notes": [
+            "^2+^0 Added zone heights to region config"
+        ]
+    },
+
+    "r_whippets": {
+        "latest": "1.0.6",
+        "notes": []
+    }
+}
