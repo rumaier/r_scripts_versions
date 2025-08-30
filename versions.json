@@ -84,10 +84,9 @@
     },
 
     "r_storageunits": {
-        "latest": "2.0.1",
+        "latest": "2.1.0",
         "notes": [
-            "· Fixed cheater false positive on relog w/ spawn selectors",
-            "· Fixed incorrect README links"
+            "· Refactor for bridge update"
         ]
     },
 
