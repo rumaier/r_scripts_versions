@@ -46,7 +46,8 @@
         "repo": "rumaier/r_energydrinks",
         "latest": "1.1.0",
         "notes": [
-            "· Refactor for bridge update"
+            "· Refactor for bridge update",
+            "· Improved security on drink purchase events"
         ]
     },
 
