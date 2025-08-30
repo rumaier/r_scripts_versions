@@ -44,9 +44,9 @@
 
     "r_energydrinks": {
         "repo": "rumaier/r_energydrinks",
-        "latest": "1.0.4",
+        "latest": "1.1.0",
         "notes": [
-            "· Fix debug function conflicts with ox_lib"
+            "· Refactor for bridge update"
         ]
     },
 
