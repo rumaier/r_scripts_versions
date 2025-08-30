@@ -16,9 +16,11 @@
     },
 
     "r_buddies": {
-        "latest": "2.0.4",
+        "latest": "2.1.0",
         "notes": [
-            "· Fixed chat export error on login"
+            "^2+^0 Added rate limiting to PtFx trigger events",
+            "· Cleanup up and refactored codebase",
+            "· Rebuilt NUI interfaces due to lost source files"
         ]
     },
 
