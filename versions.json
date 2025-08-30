@@ -20,6 +20,7 @@
         "notes": [
             "^2+^0 Added rate limiting to PtFx trigger events",
             "· Cleanup up and refactored codebase",
+            "· Slightly improved claw grab detection",
             "· Rebuilt NUI interfaces due to lost source files"
         ]
     },
