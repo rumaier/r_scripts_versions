@@ -1,7 +1,10 @@
 {
     "r_blackmarket": {
-        "latest": "1.2.8",
-        "notes": []
+        "latest": "2.0.0",
+        "notes": [
+            "^2+^0 Added new custom React NUI Interaces",
+            "· Complete rewrite of the entire resource"
+        ]
     },
 
     "r_bridge": {
