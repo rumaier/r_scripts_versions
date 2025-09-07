@@ -72,8 +72,10 @@
 
     "r_moneywash": {
         "repo": "rumaier/r_moneywash",
-        "latest": "1.0.6",
-        "notes": []
+        "latest": "1.1.0",
+        "notes": [
+            "· Refactor for bridge update"
+        ]
     },
 
     "r_notify": {
