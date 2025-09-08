@@ -63,10 +63,9 @@
     },
 
     "r_lottery": {
-        "latest": "2.1.1",
+        "latest": "2.2.0",
         "notes": [
-            "· Fixed blips appearing when set to false",
-            "· fixed various stat track errors server side"
+            "· Refactor for bridge update"
         ]
     },
 
