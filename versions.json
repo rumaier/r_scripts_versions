@@ -55,10 +55,9 @@
     },
 
     "r_killfeed": {
-        "latest": "1.0.3",
+        "latest": "1.1.0",
         "notes": [
-            "· Fixed NPC kills showing as 'nil nil'",
-            "· fixed various stat track errors server side"
+            "· Refactor for bridge update"
         ]
     },
 
