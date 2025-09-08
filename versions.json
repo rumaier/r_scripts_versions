@@ -94,7 +94,7 @@
     },
 
     "r_trapphone": {
-        "latest": "1.1.4",
+        "latest": "1.2.0",
         "notes": [
             "^2+^0 Added zone heights to region config"
         ]
