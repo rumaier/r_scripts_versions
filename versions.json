@@ -82,8 +82,11 @@
     },
 
     "r_prison": {
-        "latest": "1.0.5",
-        "notes": []
+        "latest": "2.0.0",
+        "notes": [
+            "^2+^0 Added new custom React NUI Interaces",
+            "· Complete rewrite of the entire resource"
+        ]
     },
 
     "r_storageunits": {
