@@ -62,9 +62,9 @@
     },
 
     "r_lottery": {
-        "latest": "2.2.0",
+        "latest": "2.2.1",
         "notes": [
-            "· Refactor for bridge update"
+            "· Fix incorrect casing on balance removal function"
         ]
     },
 
