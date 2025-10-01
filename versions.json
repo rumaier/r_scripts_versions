@@ -82,10 +82,10 @@
     },
 
     "r_prison": {
-        "latest": "2.0.0",
+        "latest": "2.0.2",
         "notes": [
-            "^2+^0 Added new custom React NUI Interaces",
-            "· Complete rewrite of the entire resource"
+            "· fixed dashboard access check",
+            "· fixed canteen item config checks"
         ]
     },
 
