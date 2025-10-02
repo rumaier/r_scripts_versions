@@ -97,10 +97,9 @@
     },
 
     "r_trapphone": {
-        "latest": "1.2.0",
+        "latest": "1.2.1",
         "notes": [
-            "· Fixed database build errors on initial setup",
-            "· Refactor for bridge update"
+            "· Fixed casing on npc spawning function"
         ]
     },
 
