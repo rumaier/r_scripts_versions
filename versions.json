@@ -9,12 +9,9 @@
 
     "r_bridge": {
         "repo": "rumaier/r_bridge",
-        "latest": "2.0.0",
+        "latest": "2.0.1",
         "notes": [
-            "^2+^0 Added interface bridging",
-            "· Refactored codebase",
-            "· Rebuilt help text in react",
-            "^8-^0 Removed inventory stash functions"
+            "· Fixed version checking logic to prevent errors on non-listed resources/API outages"
         ]
     },
 
