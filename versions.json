@@ -54,6 +54,13 @@
         ]
     },
 
+    "r_fraud": {
+        "latest": "1.0.0",
+        "notes": [
+            "· Initial release"
+        ]
+    },
+
     "r_killfeed": {
         "latest": "1.1.0",
         "notes": [
