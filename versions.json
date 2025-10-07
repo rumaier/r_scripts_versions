@@ -9,9 +9,9 @@
 
     "r_bridge": {
         "repo": "rumaier/r_bridge",
-        "latest": "2.0.1",
+        "latest": "2.0.2",
         "notes": [
-            "· Fixed version checking logic to prevent errors on non-listed resources/API outages"
+            "· Updated inventory removeItem functions to support  slot parameters"
         ]
     },
 
