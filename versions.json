@@ -1,9 +1,9 @@
 {
     "r_blackmarket": {
-        "latest": "2.0.0",
+        "latest": "2.0.1",
         "notes": [
-            "^2+^0 Added new custom React NUI Interaces",
-            "· Complete rewrite of the entire resource"
+            "· Spawn point checks for removal on resource stop",
+            "· Item info check and error prints on client start"
         ]
     },
 
