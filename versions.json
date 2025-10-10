@@ -9,19 +9,16 @@
 
     "r_bridge": {
         "repo": "rumaier/r_bridge",
-        "latest": "2.0.2",
+        "latest": "2.0.3",
         "notes": [
-            "· Updated inventory removeItem functions to support  slot parameters"
+            "· Refactored wrapper function for particle effects"
         ]
     },
 
     "r_buddies": {
-        "latest": "2.1.0",
+        "latest": "2.1.1",
         "notes": [
-            "^2+^0 Added rate limiting to PtFx trigger events",
-            "· Cleanup up and refactored codebase",
-            "· Slightly improved claw grab detection",
-            "· Rebuilt NUI interfaces due to lost source files"
+            "· Refactor particle effect function for bridge update"
         ]
     },
 
@@ -86,10 +83,9 @@
     },
 
     "r_prison": {
-        "latest": "2.0.2",
+        "latest": "2.0.3",
         "notes": [
-            "· fixed dashboard access check",
-            "· fixed canteen item config checks"
+            "· Refactor particle effects function for bridge update"
         ]
     },
 
@@ -108,9 +104,9 @@
     },
 
     "r_whippets": {
-        "latest": "1.1.0",
+        "latest": "1.1.1",
         "notes": [
-            "· Refactor for bridge update"
+            "· Refactor particle fx function for bridge update"
         ]
     }
 }
