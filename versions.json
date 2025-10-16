@@ -83,9 +83,13 @@
     },
 
     "r_prison": {
-        "latest": "2.0.3",
+        "latest": "2.0.4",
         "notes": [
-            "· Refactor particle effects function for bridge update"
+            "· Fixed inmate shop item validity checks",
+            "· Fixed breakout plan search indexing invalid odds value",
+            "· Fixed various notification typos",
+            "· Fixed various init points duplicating on character relog",
+            "· Fixed various interface design issues"
         ]
     },
 
