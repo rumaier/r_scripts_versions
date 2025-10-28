@@ -83,13 +83,10 @@
     },
 
     "r_prison": {
-        "latest": "2.0.4",
+        "latest": "2.0.5",
         "notes": [
-            "· Fixed inmate shop item validity checks",
-            "· Fixed breakout plan search indexing invalid odds value",
-            "· Fixed various notification typos",
-            "· Fixed various init points duplicating on character relog",
-            "· Fixed various interface design issues"
+            "· Fixed breakout target errors with qb-target",
+            "· Fixed missing breakout_plans item in qb items install file"
         ]
     },
 
