@@ -98,9 +98,9 @@
     },
 
     "r_trapphone": {
-        "latest": "1.2.1",
+        "latest": "1.2.2",
         "notes": [
-            "· Fixed casing on npc spawning function"
+            "· Added debug logs for various initialization functions"
         ]
     },
 
