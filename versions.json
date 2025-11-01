@@ -16,9 +16,10 @@
     },
 
     "r_buddies": {
-        "latest": "2.1.1",
+        "latest": "2.1.2",
         "notes": [
-            "· Refactor particle effect function for bridge update"
+            "· Fixed claw machine distance check errors",
+            "· Fixed claw machine HUD placement"
         ]
     },
 
@@ -98,9 +99,9 @@
     },
 
     "r_trapphone": {
-        "latest": "1.2.2",
+        "latest": "1.2.3",
         "notes": [
-            "· Added debug logs for various initialization functions"
+            "· Fixed phone shop blips appearing long range"
         ]
     },
 
