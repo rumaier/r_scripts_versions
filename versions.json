@@ -9,9 +9,9 @@
 
     "r_bridge": {
         "repo": "rumaier/r_bridge",
-        "latest": "2.0.3",
+        "latest": "2.0.4",
         "notes": [
-            "· Refactored wrapper function for particle effects"
+            "· Fixed CodeM Inventory GetInventory parameters"
         ]
     },
 
