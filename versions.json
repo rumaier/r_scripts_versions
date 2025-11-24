@@ -9,9 +9,9 @@
 
     "r_bridge": {
         "repo": "rumaier/r_bridge",
-        "latest": "2.0.4",
+        "latest": "2.0.5",
         "notes": [
-            "· Fixed CodeM Inventory GetInventory parameters"
+            "· Fixed QBCore setItemMetadata functionality"
         ]
     },
 
