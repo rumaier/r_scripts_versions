@@ -33,10 +33,9 @@
 
     "r_drugsales": {
         "repo": "rumaier/r_drugsales",
-        "latest": "3.0.0",
+        "latest": "3.1.0",
         "notes": [
-            "^2+^0 Added new custom React NUI Interaces",
-            "· Complete rewrite of the entire resource"
+            "^2+^0 Added ped force cleanup option after sales",
         ]
     },
 
