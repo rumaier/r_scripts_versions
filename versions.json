@@ -35,7 +35,7 @@
         "repo": "rumaier/r_drugsales",
         "latest": "3.1.0",
         "notes": [
-            "^2+^0 Added ped force cleanup option after sales",
+            "^2+^0 Added ped force cleanup option after sales"
         ]
     },
 
@@ -83,10 +83,9 @@
     },
 
     "r_prison": {
-        "latest": "2.0.5",
+        "latest": "2.1.0",
         "notes": [
-            "· Fixed breakout target errors with qb-target",
-            "· Fixed missing breakout_plans item in qb items install file"
+            "+ Added event that is emitted on player jail"
         ]
     },
 
