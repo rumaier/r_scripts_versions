@@ -63,9 +63,9 @@
     },
 
     "r_lottery": {
-        "latest": "2.2.1",
+        "latest": "2.2.2",
         "notes": [
-            "· Fix incorrect casing on balance removal function"
+            "· Fixed database build waits to avoid initial install errors"
         ]
     },
 
