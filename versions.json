@@ -49,9 +49,9 @@
     },
 
     "r_fraud": {
-        "latest": "1.0.0",
+        "latest": "1.1.0",
         "notes": [
-            "· Initial release"
+            "+ Added blip toggles for fraud/hardware shops"
         ]
     },
 
