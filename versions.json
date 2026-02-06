@@ -16,10 +16,9 @@
     },
 
     "r_buddies": {
-        "latest": "2.1.2",
+        "latest": "2.1.3",
         "notes": [
-            "· Fixed claw machine distance check errors",
-            "· Fixed claw machine HUD placement"
+            "· Fixed disabling collision on buddy when attached to player"
         ]
     },
 
