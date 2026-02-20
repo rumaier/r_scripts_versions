@@ -9,9 +9,9 @@
 
     "r_bridge": {
         "repo": "rumaier/r_bridge",
-        "latest": "2.0.6",
+        "latest": "2.0.7",
         "notes": [
-            "· Fixed QBTarget Zone bridging"
+            "· Fixed QBOX set player metadata function name"
         ]
     },
 
@@ -89,9 +89,9 @@
     },
 
     "r_storageunits": {
-        "latest": "2.1.0",
+        "latest": "2.1.1",
         "notes": [
-            "· Refactor for bridge update"
+            "· Updated model name for K4MB1 container shell"
         ]
     },
 
