@@ -96,9 +96,12 @@
     },
 
     "r_trapphone": {
-        "latest": "1.2.3",
+        "latest": "2.0.0",
         "notes": [
-            "· Fixed phone shop blips appearing long range"
+            "· Phone UI Overhaul",
+            "· Offer/Contact System Overhaul",
+            "· New Plug System for purchasing drugs",
+            "· Dealing Systems Overhaul",
         ]
     },
 
