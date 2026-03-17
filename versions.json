@@ -96,12 +96,12 @@
     },
 
     "r_trapphone": {
-        "latest": "2.0.0",
+        "latest": "2.0.1",
         "notes": [
-            "· Phone UI Overhaul",
-            "· Offer/Contact System Overhaul",
-            "· New Plug System for purchasing drugs",
-            "· Dealing Systems Overhaul",
+            "· Fixed client order price calculations",
+            "· Fixed message scheduling desyncing",
+            "· Fixed item usage errors with QB",
+            "· Relocated default shop ped coords",
         ]
     },
 
