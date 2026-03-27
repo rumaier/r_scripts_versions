@@ -62,9 +62,10 @@
     },
 
     "r_lottery": {
-        "latest": "2.2.2",
+        "latest": "2.3.0",
         "notes": [
-            "· Fixed database build waits to avoid initial install errors"
+            "+ Added ability to disable kiosk props",
+            "· Added missing locales"
         ]
     },
 
