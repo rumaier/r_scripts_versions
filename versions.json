@@ -24,9 +24,9 @@
 
     "r_communityservice": {
         "repo": "rumaier/r_communityservice",
-        "latest": "3.0.0",
+        "latest": "3.1.0",
         "notes": [
-            "· Complete rewrite of the entire resource"
+            "· Refactor"
         ]
     },
 
