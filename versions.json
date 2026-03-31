@@ -48,9 +48,10 @@
     },
 
     "r_fraud": {
-        "latest": "1.1.0",
+        "latest": "2.0.0",
         "notes": [
-            "+ Added blip toggles for fraud/hardware shops"
+            "+ Added Check Forging",
+            "- Moved laptop interface to DUI"
         ]
     },
 
