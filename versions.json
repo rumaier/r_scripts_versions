@@ -9,9 +9,9 @@
 
     "r_bridge": {
         "repo": "rumaier/r_bridge",
-        "latest": "2.0.7",
+        "latest": "2.0.8",
         "notes": [
-            "· Fixed QBOX set player metadata function name"
+            "· Fixed tgiann inventory add item export"
         ]
     },
 
