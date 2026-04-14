@@ -48,10 +48,12 @@
     },
 
     "r_fraud": {
-        "latest": "2.0.0",
+        "latest": "2.0.1",
         "notes": [
-            "+ Added Check Forging",
-            "- Moved laptop interface to DUI"
+            "· Fixed ESX job installation SQL file",
+            "· Fixed Ez Print App file area scrolling",
+            "· Added missing QB install items",
+            "· Added missing locales",
         ]
     },
 
