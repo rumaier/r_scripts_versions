@@ -1,3 +1,6 @@
+// Add: "^2+ ^7"
+// Remove: "^1- ^7"
+// Misc: "· "
 {
     "r_blackmarket": {
         "latest": "2.0.1",
@@ -100,9 +103,12 @@
     },
 
     "r_trapphone": {
-        "latest": "2.0.2",
+        "latest": "2.1.0",
         "notes": [
-            "· Fixed plug using wrong currency type"
+            "^2+ Added price negotiation to offers^7",
+            "· Fixed OnDrugSold not being fired on exchanges",
+            "· Fixed plug being accesible post-purchases",
+            "· Minor interface styling changes"
         ]
     },
 
