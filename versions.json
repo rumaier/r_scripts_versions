@@ -1,118 +1,67 @@
-// Add: "^2+ ^7"
-// Remove: "^1- ^7"
-// Misc: "· "
 {
     "r_blackmarket": {
         "latest": "2.0.1",
-        "notes": [
-            "· Spawn point checks for removal on resource stop",
-            "· Item info check and error prints on client start"
-        ]
     },
 
     "r_bridge": {
         "repo": "rumaier/r_bridge",
         "latest": "2.0.8",
-        "notes": [
-            "· Fixed tgiann inventory add item export"
-        ]
     },
 
     "r_buddies": {
         "latest": "2.1.4",
-        "notes": [
-            "· Fixed item data errors on qbox"
-        ]
     },
 
     "r_communityservice": {
         "repo": "rumaier/r_communityservice",
         "latest": "3.1.0",
-        "notes": [
-            "· Refactor"
-        ]
     },
 
     "r_drugsales": {
         "repo": "rumaier/r_drugsales",
         "latest": "3.1.0",
-        "notes": [
-            "· Refactor"
-        ]
     },
 
     "r_energydrinks": {
         "repo": "rumaier/r_energydrinks",
         "latest": "1.1.0",
-        "notes": [
-            "· Refactor for bridge update",
-            "· Improved security on drink purchase events"
-        ]
     },
 
     "r_fraud": {
         "latest": "2.0.1",
-        "notes": [
-            "· Fixed ESX job installation SQL file",
-            "· Fixed Ez Print App file area scrolling",
-            "· Added missing QB install items",
-            "· Added missing locales",
-        ]
     },
 
     "r_killfeed": {
         "latest": "1.1.0",
-        "notes": [
-            "· Refactor for bridge update"
-        ]
     },
 
     "r_lottery": {
         "latest": "2.3.0",
-        "notes": [
-            "+ Added ability to disable kiosk props",
-            "· Added missing locales"
-        ]
     },
 
     "r_moneywash": {
         "repo": "rumaier/r_moneywash",
         "latest": "1.1.0",
-        "notes": [
-            "· Refactor for bridge update"
-        ]
     },
 
     "r_notify": {
         "latest": "1.0.0",
-        "notes": []
     },
 
     "r_prison": {
         "latest": "2.2.0",
-        "notes": [
-            "+ Added event that is emitted on player jail"
-        ]
     },
 
     "r_storageunits": {
         "latest": "2.1.1",
-        "notes": [
-            "· Updated model name for K4MB1 container shell"
-        ]
     },
 
     "r_trapphone": {
         "latest": "2.1.1",
-        "notes": [
-            "· Adjust database fetch logic for certain edge cases"
-        ]
     },
 
     "r_whippets": {
+        "repo": "rumaier/r_whippets",
         "latest": "1.1.1",
-        "notes": [
-            "· Refactor particle fx function for bridge update"
-        ]
     }
 }
